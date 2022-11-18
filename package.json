@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/dskup.lwc-lamwx731",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve sivWicCK5ilU0ayIYwAo --open"
+  }
+}
